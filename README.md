@@ -42,6 +42,7 @@ I build **custom integrations for Home Assistant**, bringing local hardware and 
 ### 🤝 Contributions
 
 **[magikh0e/ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** — Contributed the German (`de`) localization for this Home Assistant medication-tracking integration (shipped in v0.24.1).
+
 **[rolandzeiner/tankstellen-austria](https://github.com/rolandzeiner/tankstellen-austria)** - Idea for Device-aware navigation links (shipped in v1.9.2).
 
 ---
